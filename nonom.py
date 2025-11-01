@@ -518,7 +518,9 @@ def save_data(data):
 # 🖥️ App-Start
 # ================================
 
+# ✅ Sicherstellen, dass APP_NAME und ICON vor st.set_page_config() definiert sind
 st.set_page_config(page_title=APP_NAME, layout="wide", page_icon=ICON)
+
 st.markdown("""
     <style>
     .stApp {

@@ -2,7 +2,7 @@
 # 🛠️ Konfiguration & Konstanten
 # ================================
 
-APP_NAME = "nomnom"
+APP_NAME = "NomNom"
 ICON = "🍽️"
 
 # Standard-Haltbarkeitsdauer (in Tagen)
@@ -678,3 +678,4 @@ if expiring:
 st.markdown("---")
 
 st.markdown("💡 *NomNom – Dein persönlicher Küchenhelfer für weniger Verschwendung.*")
+
